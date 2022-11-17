@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding:0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    font-size: 1em;
+}
+html{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    padding: inherit;
+    color: black;
+
+}
+h1{
+    margin:0;
+}
